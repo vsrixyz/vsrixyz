@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I'm a writer and designer.
+I help simplify user experiences using language and design.
 
-My purpose is wrestling the alligator of complexity in order to deliver simple, powerful experiences that help people do things. 
-
-I combine strategic thinking with a deep reservoir of empathy to turn challenging products into comprehensible and delightful user experiences. Currently, I'm exploring how to use data and machine learning to tell even better stories.
+My approach uses a mix of storytelling techniques, human-centered design principles, and psychology. I am interested in software that helps humans make and do things, because tools literally change the way we perceive the world.
 
 Formerly: Yelp, Asana, Google, and Zendesk.
 
